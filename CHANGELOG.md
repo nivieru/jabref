@@ -21,7 +21,7 @@ to [sourceforge feature requests](https://sourceforge.net/p/jabref/features/) by
 - ACM fetcher works again, fixes #545
 
 ### Removed
-
+- OpenOffice/LibreOffice is removed from the push-to-application button and only accessed through the side panel
 
 
 
